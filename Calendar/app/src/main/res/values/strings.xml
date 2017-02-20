@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Календарь</string>
+
+    <string name="january">Январь</string>
+    <string name="february">Февраль</string>
+    <string name="march">Март</string>
+    <string name="april">Апрель</string>
+    <string name="may">Май</string>
+    <string name="june">Июнь</string>
+    <string name="july">Июль</string>
+    <string name="august">Август</string>
+    <string name="september">Сентябрь</string>
+    <string name="october">Октябрь</string>
+    <string name="november">Ноябрь</string>
+    <string name="december">Декабрь</string>
+
+    <string name="monday">пн</string>
+    <string name="tuesday">вт</string>
+    <string name="wednesday">ср</string>
+    <string name="thursday">чт</string>
+    <string name="friday">пт</string>
+    <string name="saturday">сб</string>
+    <string name="sunday">вс</string>
+
+    <string name="days_count">Количество календарных дней:</string>
+    <string name="work_days_count">Количество рабочих дней:</string>
+    <string name="weekends_days_count">Количество выходных и праздничных дней:</string>
+
+    <string name="forty_hours">Количество часов при 40-час недели:</string>
+    <string name="thirty_six_hours">Количество часов при 36 часовой недели:</string>
+    <string name="twenty_four_hours">Количество часов при 24-х часовой недели:</string>
+
+    <string name="current_quartal">Текущий квартал:</string>
+    <string name="current_half_year">Текущее полугодие:</string>
+    <string name="current_year">Текущий год:</string>
+
+
+</resources>
